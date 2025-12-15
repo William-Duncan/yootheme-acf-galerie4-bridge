@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Pont YOOtheme - ACF Galerie 4
+ * Plugin Name: YOOtheme ACF Galerie 4 Bridge
  * Plugin URI: https://github.com/William-Duncan/yootheme-acf-galerie4-bridge
  * Description: Exposes ACF Galerie 4 fields as YOOtheme Pro Multiple Items Sources for use in Gallery, Grid, and Slideshow elements.
  * Version: 1.0.0
